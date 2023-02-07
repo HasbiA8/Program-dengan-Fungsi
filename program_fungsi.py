@@ -1,7 +1,6 @@
 # Variabel global untuk menyimpan data Buku
 buku = []
 
-
 # fungsi untuk menampilkan semua data
 def show_data():
     if len(buku) <= 0:
